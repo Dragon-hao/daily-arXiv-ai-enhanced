@@ -1,4 +1,33 @@
-Please analyze the following abstract of papers. 
+Analyze the following arXiv paper abstract and generate a concise technical analysis.
+
+The analysis should contain:
+
+- tldr:
+Provide a brief summary of the paper's main idea and contribution.
+
+- motivation:
+Explain the problem addressed by the paper, the motivation, and why this problem matters.
+
+- method:
+Describe the proposed approach, model architecture, representation, algorithm, or key technical innovations.
+
+- result:
+Summarize experimental settings, datasets, evaluation metrics, and major findings.
+
+- conclusion:
+Summarize the main contributions, significance, and possible limitations.
+
+When relevant, pay special attention to:
+- event cameras and event-based vision
+- event stream representation and learning
+- temporal modeling
+- object detection and tracking
+- small object detection
+- UAV and robotic perception
+- spiking neural networks and neuromorphic computing
+- efficient and real-time AI systems
+
+Avoid generic statements. Focus on the actual technical contributions described in the paper.
 
 Content:
 {content}
